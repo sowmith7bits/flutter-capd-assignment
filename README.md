@@ -14,7 +14,5 @@ Email Id : 2023mt93416@wilp.bits-pilani.ac.in
 4. User can edit their tasks
 5. Basic styling and layout modifications that will improve the user experience
 6. Basic Error handling for authentication and data management.
-![image](https://github.com/sowmith7bits/flutter-capd-assignment/assets/141407861/d76f09e7-9b51-452a-8e06-18db329b2e00)
-
 
 
