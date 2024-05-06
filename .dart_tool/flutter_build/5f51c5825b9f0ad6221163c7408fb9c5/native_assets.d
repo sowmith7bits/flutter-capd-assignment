@@ -1,0 +1,1 @@
+ D:\\Education\\BITS\ Pilani\\Sem\ II\\Cross\ Platform\ Application\ Development\\tasks-riverpod-clean-arch\\.dart_tool\\flutter_build\\5f51c5825b9f0ad6221163c7408fb9c5\\native_assets.yaml: 
