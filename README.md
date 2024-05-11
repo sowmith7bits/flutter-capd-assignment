@@ -15,4 +15,10 @@ Email Id : 2023mt93416@wilp.bits-pilani.ac.in
 5. Basic styling and layout modifications that will improve the user experience
 6. Basic Error handling for authentication and data management.
 
+ # Code Overview:
+ 1. main.dart - Main file and redriects to login page. Login Valdiations are taken care
+ 2. signup_page.dart - Singup page for new users
+ 3. tasks_list_page.dart - Home Page to view and toggle status
+ 4. task_form_page.dart - Task form page to add , delete and edit tasks
+
 
